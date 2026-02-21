@@ -1,2 +1,2 @@
 # KrupaliMadlani-Demo
-project for understanding
+Demo-project
